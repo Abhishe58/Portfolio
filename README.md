@@ -2,8 +2,7 @@
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, contact information, and more in a modern, responsive design.
 
 🖥️ Demo
-🔗 Live Website
-📸
+🔗 https://abhishe58.github.io/Portfolio/
 
 📁 Features
 Fully responsive design (desktop, tablet, mobile)
